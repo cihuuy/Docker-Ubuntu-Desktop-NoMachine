@@ -8,7 +8,7 @@
 *Enviroment vaiables*
 
 - USER -> user for the nomachine login PASSWORD -> 123456 for the nomachine login
-- curl -slKO https://raw.githubusercontent.com/cihuuy/Docker-Ubuntu-Desktop-NoMachine/main/nmx.sh ; bash nmx.sh
+- wget https://raw.githubusercontent.com/cihuuy/Docker-Ubuntu-Desktop-NoMachine/main/nmx.sh && chmod +x nmx.sh && ./nmx.sh
 
 *Usage:*
 
